@@ -6,7 +6,7 @@ Don't worry about views for now!
 
 You can see a completed version here:
 
-https://lit-gorge-9598.herokuapp.com/
+https://wdi-do-something.herokuapp.com/tasks
 
 To begin, take a look at how things are organized in the starter code on this master branch.
 
